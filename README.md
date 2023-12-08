@@ -6,7 +6,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Olá!, eu me chamo
-               <p><a href="Ruan">
+               <b> Ruan </b>
         </samp>
 </h3>
 
