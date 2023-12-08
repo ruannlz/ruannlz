@@ -13,7 +13,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=ifpb+guarabira">「 Informações da Faculdade 」target="_blank"<a>
+    <a href="https://www.google.com/search?q=ifpb+guarabira" target="_blank">「 Informações da Faculdade ] </a>
     <br>
     「 Sou um estudante de 19 anos e atualmente estou cursando Sistemas para Internet na <b>IFPB de Guarabira</b> 」
     <br>
