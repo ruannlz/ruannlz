@@ -6,7 +6,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Olá!, eu me chamo
-                <b><a target="_blank" href="">Ruan</a></b>
+                <b><a target="_blank" href="https://ayo.so/abstinence">Ruan</a></b>
         </samp>
 </h3>
 
