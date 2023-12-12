@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ruan</h1>
-<h3 align="center">I'm a Brazilian student practicing HTML, CSS AND JS</h3>
+<h3 align="center">I'm a Brazilian student practicing HTML, CSS and JavaScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruannlz&label=Profile%20views&color=0e75b6&style=flat" alt="ruannlz" /> </p>
+
+<p align="center"> 
+  <samp>
+    <br>
+    「 Sou um estudante de 19 anos e atualmente estou cursando Sistemas para Internet na <b>IFPB de Guarabira</b> 」
+    <br>
+    <br>
+  <a href="https://www.google.com/search?q=ifpb+guarabira" target="_blank">「 Informações da Faculdade ] </a>
+  </samp>
+</p>
 
 - 📫 How to reach me **ruanluiz.sv@gmail.com**
 
@@ -21,19 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruannlz&" alt="ruannlz" /></p>
 
-
-
-
-
-
-
-
-<p align="center"> 
-  <samp>
-    <br>
-    「 Sou um estudante de 19 anos e atualmente estou cursando Sistemas para Internet na <b>IFPB de Guarabira</b> 」
-    <br>
-    <br>
-  <a href="https://www.google.com/search?q=ifpb+guarabira" target="_blank">「 Informações da Faculdade ] </a>
-  </samp>
-</p>
