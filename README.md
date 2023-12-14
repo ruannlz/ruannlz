@@ -6,10 +6,10 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Sou um estudante de 19 anos e atualmente estou cursando Sistemas para Internet na <b>IFPB de Guarabira</b> 」
+    「 I'm a 19 year old student practicing HTML, CSS and JavaScript at the <b>IFPB college in Guarabira - Paraíba in Brazil</b> 」
     <br>
     <br>
-  <a href="https://www.google.com/search?q=ifpb+guarabira" target="_blank">「 Informações da Faculdade ] </a>
+  <a href="https://www.google.com/search?q=ifpb+guarabira" target="_blank">「 College Information ] </a>
   </samp>
 </p>
 
