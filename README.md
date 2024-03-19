@@ -15,7 +15,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I'm a 19 year old student practicing HTML, CSS and JavaScript at the <b>IFPB college in Guarabira - Paraíba in Brazil</b> 」
+    「 I'm a 19 year old student practicing HTML, CSS, JavaScript and Python at the <b>IFPB college in Guarabira - Paraíba in Brazil</b> 」
     <br>
     <br>
   <a href="https://www.google.com/search?q=ifpb+guarabira" target="_blank">「 College Information ] </a>
